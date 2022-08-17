@@ -1,0 +1,17 @@
+ipython
+omegaconf
+pydub
+PyYAML
+torchaudio
+silero
+librosa
+soundfile
+transformers
+torch
+fastapi
+scipy
+python-multipart
+starlette
+uvicorn
+ffmpeg
+jinja2
