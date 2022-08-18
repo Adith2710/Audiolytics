@@ -8,6 +8,8 @@ COPY ./requirements.txt /code/requirements.txt
 
 COPY ./templates /code/templates
 
+RUN /usr/local/bin/python -m pip install --upgrade pip
+
 RUN pip install --no-cache-dir --upgrade -r /code/requirements.txt
 
 COPY ./app /code/app
