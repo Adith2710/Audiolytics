@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/63020303/185771842-4d704995-91a3-4f53-bb96-9f4dffe9f594.png)
+
+
 # Audiolytics
 
 A **FastAPI** based tool that loads a .wav file and returns an output. The API is built using **wav2vec2.0** model. It has been uploaded to a **Docker** container and is hosted on an **AWS** EC2 instance. All the processes is automated using **Github Actions** (a CI/CD tool).
