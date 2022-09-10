@@ -19,7 +19,7 @@ Output generated:
 ```
 Sample_Test_Small.json
 {
-    'transcript': 'for instance look at their behaviour in the matter of the ring ', 
+    'transcript': 'for instance look at their behaviour in the matter of the ring ' , 
     'word_dict': 
               {
                0: ('for', 0.04658385093167702, 0.09316770186335405),
